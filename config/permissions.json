@@ -1,7 +1,7 @@
 [
     {
+        "permissions": "operator",
         "xuid": "2535419431067789",
-        "name": "BeauwithaBang",
-        "permissions": "operator"
+        "name": "BeauwithaBang"
     }
 ]
